@@ -8,7 +8,8 @@ import java.util.Arrays;
 import java.util.Scanner;
 
 
-public class BloomJoin {
+public class BloomJoin 
+{
 	private static BloomFilterDet BFD;
 	private static int table1joinfield=1; //join column of table1
 	private static int table2joinfield=1; //join column of table2
