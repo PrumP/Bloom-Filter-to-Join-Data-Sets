@@ -1,7 +1,8 @@
 import java.util.BitSet;
 import java.util.Random;
 
-public class BloomFilterRan {
+public class BloomFilterRan 
+{
 	
 	private final BitSet data;
 	private final int filterSize;
