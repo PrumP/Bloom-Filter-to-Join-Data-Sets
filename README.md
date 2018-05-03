@@ -23,7 +23,7 @@ Compare to initial table size, R could be much smaller which decreases communica
 | 10  | 25000 | 2500 | 0.00880 | 0.01200 |
 | 10  | 30000 | 3000 | 0.01000 | 0.01267 |
 
-* Bpe - Bits per Element*
+* BpE - Bits per Element*
 * N - Random strings 
 * T - Random strings not in N
 * FPDetF - False Positives using Detemnistic Filter
